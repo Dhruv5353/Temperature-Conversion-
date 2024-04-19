@@ -74,3 +74,10 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 ## Acknowledgements
 
 This project was developed using C++ in Visual Studio.
+
+## Collaborators
+
+- **Dhruv Lokadiya** 
+- **Kunj Mungalpara** 
+- **Yash Parmar** 
+
